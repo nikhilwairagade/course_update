@@ -1,0 +1,6 @@
+{
+    "name": "My Exprss app product",
+    "mail": {
+        "host": "production mail server"
+    }
+}
